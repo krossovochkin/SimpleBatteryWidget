@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleBatteryWidget</string>
+    <string name="install_instructions">Move to Widgets section of drawer to set this widget onto home screen</string>
+</resources>
